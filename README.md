@@ -1,0 +1,1 @@
+we have distances between center of cities in Iran (distances.csv) and we want to show their position on map by Multi-Dimensional Scaling (MDS) and Isomap algorithms.
